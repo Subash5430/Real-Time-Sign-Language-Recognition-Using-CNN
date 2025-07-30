@@ -29,7 +29,6 @@ sign-language-recognition/
 ├── dataset/
 │ └── (ASL alphabet images)
 ├── app.py
-├── utils.py
 ├── demo.py
 ├── train_model.py
 ├── requirements.txt
